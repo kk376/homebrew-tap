@@ -1,8 +1,8 @@
 class Ferrisfetch < Formula
   desc "Fast, lightweight Linux system information fetch CLI written in Rust"
   homepage "https://github.com/kk376/ferrisfetch"
-  url "https://github.com/kk376/ferrisfetch/archive/refs/tags/v0.9.6.tar.gz"
-  sha256 "e93dd9ed6fcaf3d72cbeb700dbb727439b2314cdf3285142933a354627df0250"
+  url "https://github.com/kk376/ferrisfetch/archive/refs/tags/v0.9.7.tar.gz"
+  sha256 "25953b865bd74dc48bb42783c9ced754cf6db49dd0ed5f8da97aa4c19b9335f3"
   license "MIT"
 
   depends_on "rust" => :build
