@@ -1,20 +1,20 @@
 # homebrew-tap
 
-Homebrew tap for FerrisFetch and tools.
+Homebrew tap for KKFetch and tools.
 
 ## Installation
 
 ```bash
 brew tap kk376/tap
-brew install ferrisfetch
+brew install kkfetch
 ```
 
 Or install directly:
 
 ```bash
-brew install kk376/tap/ferrisfetch
+brew install kk376/tap/kkfetch
 ```
 
 ## Formulas
 
-- **ferrisfetch**: Fast, lightweight Linux system information fetch CLI written in Rust
+- **kkfetch**: Fast, lightweight Linux system information fetch CLI written in Rust by Kushagra Kumar (kk376)
